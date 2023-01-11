@@ -1,0 +1,47 @@
+ body{
+background-color: #999;;
+width:100%;
+height:100%;
+margin:2%;
+}
+
+/* ol li a */
+リストの下線部消し
+/* ol li  */
+外側の余白　上下４０％
+
+ol{
+  text-decoration: none;
+  margin:40% 0%;
+}
+
+/* main */
+リストの点を消し
+背景色  ピンク色
+枠線の設定  黄色  １５pxの枠線
+幅　５０％
+高さ　auto
+外側の余白　左右５％
+.main{
+    background-color:pink;
+    width: 50px;
+    height:auto;
+    margin:0 5%;
+}
+
+/* area1・area2・area3 */
+文字の色　白色
+.contents{
+    color:white;
+}
+
+/* area1 */
+背景色　黒色
+透明度　０.６
+.area1{
+    background-color:black;
+    opacity:0.6;
+}
+
+/* area2 */
+背景色：右へ向かうグラデーション　青色・薄緑色 
